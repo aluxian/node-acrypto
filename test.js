@@ -1,6 +1,6 @@
 import assert from 'assert'
 import done from 'promise-done'
-import * as acrypto from './'
+import acrypto from './'
 
 async function test () {
   const rand = await acrypto.randomBytes(16)

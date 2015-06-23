@@ -1,6 +1,6 @@
 {
   "name": "acrypto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise based version of Node.js `crypto` module which only includes `randomBytes` and `pbkdf2`.",
   "homepage": "https://github.com/aluxian/node-acrypto",
   "license": "Unlicense",
